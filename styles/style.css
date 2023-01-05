@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+/* header and navigation styles */
+.nav-style {
+  font-weight: 800;
+  font-size: 45px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+}
+nav li {
+  list-style: none;
+  margin-right: 51px;
+}
+.text-primary {
+  color: #fd6e0a;
+}
+.btn-primary {
+  background: #fd6e0a;
+  border-radius: 5px;
+  height: 64px;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 20px;
+  border: 0;
+  padding: 18px 35px;
+  margin-right: 50px 230px 47px 51px;
+}
